@@ -9,6 +9,7 @@ Locust is an open source tool where tests are described in python code.
 - Documentation: https://docs.locust.io/en/stable/
 - Quick Start: https://docs.locust.io/en/stable/quickstart.html
 
+![Locust](/dashboard_preview.png)
 
 ## Installation
 
